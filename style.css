@@ -97,6 +97,7 @@ body {
   width: 200px;
 }
 .vk-text {
+  filter: drop-shadow(0px 0px 15px #cc00ff);
   text-decoration: none;
   color: white;
   font-size: 24px;
@@ -106,6 +107,7 @@ body {
 }
 
 .tg-text {
+  filter: drop-shadow(0px 0px 15px #cc00ff);
   text-decoration: none;
   color: white;
   font-size: 24px;
